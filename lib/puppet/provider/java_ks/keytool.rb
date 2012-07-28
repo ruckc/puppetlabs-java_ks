@@ -1,5 +1,6 @@
 require 'puppet/util/filetype'
 Puppet::Type.type(:java_ks).provide(:keytool) do
+<<<<<<< HEAD
   desc 'Uses a keytool to manage Java keystores'
 
   commands :keytool => 'keytool'
