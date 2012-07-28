@@ -1,0 +1,8 @@
+name    'puppetlabs-java_ks'
+version '0.0.4'
+source 'https://github.com/ruckc/puppet-java_ks.git'
+author 'ruckc'
+license 'BSD'
+summary 'Manage arbitrary Java keystore files'
+description 'Uses a combination of keytool and openssl to manage entries in a Java keystore.'
+project_page 'https://github.com/ruckc/puppetlabs-java_ks'
